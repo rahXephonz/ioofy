@@ -2,7 +2,7 @@
 I am a **`FrontEnd Developer`**, with 1 years experience of designing, building a progressive and responsive web design. Proficient with **`Javascript`** and **`CSS`** Framework.
 
 ## Currently Language Used :
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioofy&layout=compact&hide=html" alt="ioofy" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioofy&layout=compact&theme=tokyonight" alt="ioofy" /></div>
 <br />
 
 ## Contact :
