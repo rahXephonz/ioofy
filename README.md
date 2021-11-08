@@ -1,11 +1,9 @@
-## Hi, Everyone👋
-I am a **`FrontEnd Developer`**, with 1 years experience of designing, building a progressive and responsive web design. Proficient with **`Javascript`** and **`CSS`** Framework.
+## Who I am?
+He/Him | Bogor - Indonesia
 
-## Currently Language Used :
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioofy&layout=compact&theme=tokyonight" alt="ioofy" /></div>
-<br />
+Hi👋 I'm Rizkyy, I am a **`FrontEnd Developer`**, have experience of designing, building a progressive and responsive web design. Proficient with **`Javascript`** and **`CSS`** Framework.
 
-## Contact :
+## Say Hello😎
 If you want to know more about me or collaborate, feel free to contact me at :
 
 [![InstagramBadge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizukyy27)
