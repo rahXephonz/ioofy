@@ -3,7 +3,7 @@ He/Him | Bogor - Indonesia
 
 Hi👋 I'm Rizkyy, FrontEnd Devs!
 
-## Say Hello�
+## Say Hello
 If you want to know more about me or collaborate, feel free to contact me at :
 
 [![InstagramBadge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizukyy27)
