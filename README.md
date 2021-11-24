@@ -1,12 +1,10 @@
-## Who I am?
-He/Him | Bogor - Indonesia
+## Who'sm.txt
+Muhamad Rizky | He/Him | Bogor - Indonesia
 
-Hi👋 I'm Rizkyy, FrontEnd Devs!
+Hi👋 I'm Rizkyy, **`Freelancer Programmer`** Nice to meet you!
 
-## Say Hello
-If you want to know more about me or collaborate, feel free to contact me at :
-
-[![InstagramBadge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizukyy27)
+### Links
+[![InstagramBadge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizukyy27/)
 [![LinkedinBadge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-rizky-890854207/)
 [![GmailBadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrizkyy027@gmail.com)
 
