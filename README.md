@@ -1,7 +1,7 @@
 ## Who'sm.txt
 Muhamad Rizky | He/Him | Bogor - Indonesia
 
-Hi👋 I'm Rizkyy, **`Frontend Devs`** Nice to meet you!
+Hi👋 I'm Rizkyy, **`Frontend Devs`** and **`UI Designer`** Nice to meet you!
 
 ### Links
 [![InstagramBadge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizukyy27/)
