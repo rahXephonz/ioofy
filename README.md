@@ -1,12 +1,12 @@
 <p align="left"><strong><samp>「</samp></strong></p><p align="center">
     <samp>
-      an ordinary person who wants to be extraordinary.
+      An ordinary person who wants to be extraordinary.
     </samp>
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
 <h3>About me</h3>
 <p>An enthusiats front end devs.<br> Like
-    (eating Apple in front of Windows), and styling a design.</p>
+    (eating Apple in near of Windows), and styling a design.</p>
 <details>
     <summary>Currently learning...</summary>
     <br>
