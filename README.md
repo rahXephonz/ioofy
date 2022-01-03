@@ -23,6 +23,9 @@
         <a href="https://www.cypress.io/">
             <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
         </a>
+        <a href="https://www.typescriptlang.org/">
+            <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        </a>
     </div>
 </details>
 <details>
