@@ -26,6 +26,9 @@
         <a href="https://www.typescriptlang.org/">
             <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
         </a>
+        <a href="https://nextjs.org/">
+            <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+        </a>
     </div>
 </details>
 <details>
