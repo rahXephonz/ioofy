@@ -5,7 +5,7 @@
     <br>
 </p><p align="right"><strong><samp>」</samp></strong></p>
 <h3>About me</h3>
-<p>An enthusiats front end devs.<br> Like
+<p> He/Him. Hi Everyone👋 i'm Rizky and i am An enthusiats front end devs from Bogor, Indonesia.<br> I Like
     (eating Apple in near of Windows), and styling a design.</p>
 <details>
     <summary>Currently learning...</summary>
