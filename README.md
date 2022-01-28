@@ -6,7 +6,7 @@
 </p><p align="right"><strong><samp>」</samp></strong></p>
 <h3>About me</h3>
 <p> He/Him. Hi Everyone👋 i'm Rizky and i am an enthusiats front end devs from Bogor, Indonesia.<br> I Like
-    (eating Apple in near of Windows), and styling a design. Nice to see you :)</p>
+    learning a new something, and styling a design. Nice to see you :)</p>
 <details>
     <summary>Currently learning...</summary>
     <br>
