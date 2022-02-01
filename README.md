@@ -1,45 +1,29 @@
-<p align="left"><strong><samp>「</samp></strong></p><p align="center">
-    <samp>
-      An ordinary person who wants to be extraordinary.
-    </samp>
-    <br>
-</p><p align="right"><strong><samp>」</samp></strong></p>
-<h3>About me</h3>
+<h1 align="middle">/IO·OFY/</h1>
+
+<p align="middle">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
+</p>
+
+
 <p> He/Him. Hi Everyone👋 i'm Rizky and i am an enthusiats front end devs from Bogor, Indonesia.<br> I Like
     learning a new something, and styling a design. Nice to see you :)</p>
-<details>
-    <summary>Currently learning...</summary>
-    <br>
-    <div align="left">
-        <a href="https://graphql.org/">
-            <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-        </a>
-        <a href="https://reactnative.dev/">
-            <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-        </a>
-        <a href="https://dart.dev/">
-            <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-        </a>
-        <a href="https://www.cypress.io/">
-            <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-        </a>
-        <a href="https://www.typescriptlang.org/">
-            <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-        </a>
-        <a href="https://nextjs.org/">
-            <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-        </a>
-    </div>
-</details>
-<details>
-    <summary>Contact</summary>
-    <div align="left">
-        <br>
+
+## Let's chat
+
+Although the fastest way to contact me is by directly calling me or messaging me through WhatsApp, you can contact me by using one of these links.
+
+<p>
         <a href="https://facebook.com/rizukyy27">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
         </a>
         <a href="mailto:mrizkyy027@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
-    </div>
-</details>
+</p>
