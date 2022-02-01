@@ -1,4 +1,4 @@
-<h1 align="middle">/IO·OFY/</h1>
+<h1 align="middle">/IOO·FY/</h1>
 
 <p align="middle">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
