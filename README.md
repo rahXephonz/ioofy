@@ -14,7 +14,7 @@
 </p>
 
 
-<p> He/Him. Hi Everyone👋 i'm Rizky and i am an enthusiats front end devs from Bogor, Indonesia.<br> I Like
+<p> He/Him. Hi Everyone👋 i'm Rizky and i am an enthusiast front end devs from Bogor, Indonesia.<br> I Like
     learning a new something, and styling a design. Nice to see you :)</p>
 
 ## Let's chat
