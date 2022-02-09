@@ -1,7 +1,7 @@
 <h1 align="middle">/IOO·FY/</h1>
 
-<p> He/Him. Hi Everyone👋 i'm Rizky and i am an enthusiast front end devs from Bogor, Indonesia.<br> I Like
-    learning a new something, and styling a design. Nice to see you :)</p>
+<p> He/Him. Hi Everyone👋 i'm Rizky my nickname is Ioofy actually on internets. And i am an enthusiast front end devs from Bogor, Indonesia.<br/><br/>I Like
+    learning a new something, and styling a design💅. Nice to see you :)</p>
 
 ## Let's chat
 
